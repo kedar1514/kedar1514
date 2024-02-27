@@ -45,6 +45,13 @@ I'm a 23-year-old full-stack and web3 developer based in Mumbai, India. With ove
 
 </p>
 <br />
+
+<h2>Connect With Me</h2> 
+<p align="left">
+<a href="https://twitter.com/kedar1514" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kedar1514" /></a>
+<a href="https://instagram.com/kedar1514" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar1514" /></a>
+<a href="https://www.linkedin.com/in/kedar1514/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</p>
 <!--
 **kedar1514/kedar1514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
