@@ -1,4 +1,4 @@
-<h1>🐱‍🚀 Sabir Khan</h1>  
+<h1>🐱‍🚀 Kedar Choudhary</h1>  
 
 
 **`Digital Craftsman (Developer/Programmer/Creator)`**  
