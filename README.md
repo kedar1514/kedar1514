@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1>🐱‍🚀 Sabir Khan</h1>  
 
+
+**`Digital Craftsman (Developer/Programmer/Creator)`**  
+<br />
+<p align="left">
+I'm a 23-year-old full-stack and web3 developer, and DevOps engineer based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, DevOps, and open source. I thrive on challenges and am confident in my ability to drive tech innovation.
+</p>
 <!--
 **kedar1514/kedar1514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
