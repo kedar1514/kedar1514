@@ -4,7 +4,7 @@
 **`Digital Craftsman (Developer/Programmer/Creator)`**  
 <br />
 <p align="left">
-I'm a 23-year-old full-stack and web3 developer based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, and open source. I thrive on challenges and am confident in my ability to drive tech innovation.
+I'm a 23-year-old full-stack based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, and open source. I thrive on challenges and am confident in my ability to drive tech innovation.
 </p>
 
 
